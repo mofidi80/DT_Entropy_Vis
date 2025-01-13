@@ -39,7 +39,8 @@ In this project we visualize a simple decision tree classification using informa
 2. Visualize the whole decision tree.
 3. Classify the data.
 
-#### Use this link to easily view the notebook online:https://nbviewer.org/github/mofidi80/Housing_Linreg_hyperpara_opt/blob/main/boston%20housing%20linreg%20hyperparameter%20opt.ipynb
+#### Use this link to easily view the notebook online:
+https://nbviewer.org/github/mofidi80/DT_Entropy_Vis/blob/main/DT%20Entropy%20Vis.ipynb
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
