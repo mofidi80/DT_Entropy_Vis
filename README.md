@@ -34,10 +34,13 @@
 ## About The Project
 In this project we visualize a simple decision tree classification using information gain(entropy) as selection criterion.
 
-### Outcomes
+### Goals
 1. Learn which feature is used in each decision(This feature is selected by choosing the one with most information gain).
 2. Visualize the whole decision tree.
 3. Classify the data.
+
+### Outcome
+![Alt text](https://github.com/mofidi80/DT_Entropy_Vis/blob/9014cf7e406b6087c61aa83718436b767445afb8/blob/Untitled.png)
 
 #### Use this link to easily view the notebook online:
 https://nbviewer.org/github/mofidi80/DT_Entropy_Vis/blob/main/DT%20Entropy%20Vis.ipynb
